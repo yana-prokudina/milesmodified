@@ -1,3 +1,3 @@
-*** Miles modified ***
+***Miles modified***
 
-Code was modified. Run result see ![here](milesmodified.png)
+Code was modified. Run result: ![here](milesmodified.png)
